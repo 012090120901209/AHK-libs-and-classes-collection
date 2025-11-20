@@ -1,0 +1,120 @@
+# Examples 2024 Collection
+
+This collection contains 100 AutoHotkey examples scraped from 31 different repositories.
+
+## Categories
+
+- **DataStructures**: 1 files
+- **GUI**: 15 files
+- **Graphics**: 4 files
+- **Miscellaneous**: 5 files
+- **Network**: 12 files
+- **Scripts-v1**: 8 files
+- **Scripts-v2**: 8 files
+- **System**: 9 files
+- **Typing**: 19 files
+- **Utilities**: 12 files
+- **WindowManagement**: 7 files
+
+## File Mapping
+
+- DataStructures/HashTable.ahk <- AutoHotkey-HashTable/src/HashTable.ahk
+- GUI/CbAutoComplete.ahk <- cbautocomplete/CbAutoComplete.ahk
+- GUI/CbAutoCompleteDemo.ahk <- cbautocomplete/Examples/CbAutoCompleteDemo.ahk
+- GUI/Class_LV_Rows.ahk <- Class_LV_Rows/Class_LV_Rows.ahk
+- GUI/Class_Rebar.ahk <- Class_Rebar/Class_Rebar.ahk
+- GUI/Class_ScrollGUI.ahk <- Class_ScrollGUI/Sources/Class_ScrollGUI.ahk
+- GUI/Class_Toolbar.ahk <- Class_Toolbar/Class_Toolbar.ahk
+- GUI/LV_Rows_Demo.ahk <- Class_LV_Rows/Examples/LV_Rows_Demo.ahk
+- GUI/LV_Rows_IconsDemo.ahk <- Class_LV_Rows/Examples/LV_Rows_IconsDemo.ahk
+- GUI/Rebar_Demo.ahk <- Class_Rebar/Examples/Rebar_Demo.ahk
+- GUI/Rebar_Mult.ahk <- Class_Rebar/Examples/Rebar_Mult.ahk
+- GUI/SplitPanels.ahk <- Class_Rebar/Examples/SplitPanels.ahk
+- GUI/TaskDialog.ahk <- TaskDialog/Sources/TaskDialog.ahk
+- GUI/TaskDialog_sample.ahk <- TaskDialog/Sources/TaskDialog_sample.ahk
+- GUI/Toolbar_Demo.ahk <- Class_Toolbar/Examples/Toolbar_Demo.ahk
+- GUI/Toolbar_Demo_Simple.ahk <- Class_Toolbar/Examples/Toolbar_Demo_Simple.ahk
+- Graphics/SVGraph.ahk <- SVGraph/SVGraph.ahk
+- Graphics/classGDIp.ahk <- gdiChartLib/classGDIp.ahk
+- Graphics/gdipChart.ahk <- gdiChartLib/gdipChart.ahk
+- Graphics/indirectReference.ahk <- gdiChartLib/indirectReference.ahk
+- Miscellaneous/adobe_acrobat.ahk <- autohotkey/apps/adobe_acrobat.ahk
+- Miscellaneous/alternative_tab.ahk <- autohotkey/window_management/alternative_tab.ahk
+- Miscellaneous/extended_scrolling.ahk <- autohotkey/window_management/extended_scrolling.ahk
+- Miscellaneous/kde_style_window_dragging.ahk <- autohotkey/window_management/kde_style_window_dragging.ahk
+- Miscellaneous/smart_window_arrangement.ahk <- autohotkey/window_management/smart_window_arrangement.ahk
+- Network/Echo.ahk <- WebSocket.ahk/Examples/Echo.ahk
+- Network/GC.ahk <- Socket.ahk/Examples/GC.ahk
+- Network/IRC.ahk <- Socket.ahk/Examples/IRC.ahk
+- Network/Server.ahk <- Socket.ahk/Examples/Server.ahk
+- Network/Socket.ahk <- Socket.ahk/Socket.ahk
+- Network/WebSocket.ahk <- WebSocket.ahk/WebSocket.ahk
+- Network/WinSCP.ahk <- WinSCP.ahk/WinSCP.ahk
+- Network/WoL.ahk <- Socket.ahk/Examples/WoL.ahk
+- Network/file_download.ahk <- WinSCP.ahk/Examples/file_download.ahk
+- Network/file_get_information.ahk <- WinSCP.ahk/Examples/file_get_information.ahk
+- Network/file_upload.ahk <- WinSCP.ahk/Examples/file_upload.ahk
+- Network/open_sftp_connection.ahk <- WinSCP.ahk/Examples/open_sftp_connection.ahk
+- Scripts-v1/GetCurrencyFormat.ahk <- AHK_Scripts/src/format_strings/GetCurrencyFormat.ahk
+- Scripts-v1/GetCurrencyFormatEx.ahk <- AHK_Scripts/src/format_strings/GetCurrencyFormatEx.ahk
+- Scripts-v1/GetNumberFormat.ahk <- AHK_Scripts/src/format_strings/GetNumberFormat.ahk
+- Scripts-v1/GetNumberFormatEx.ahk <- AHK_Scripts/src/format_strings/GetNumberFormatEx.ahk
+- Scripts-v1/NtQuery_CPU_Usage.ahk <- AHK_Scripts/src/performance_counter/NtQuery_CPU_Usage.ahk
+- Scripts-v1/SetWindowBlur.ahk <- AHK_Scripts/src/others/SetWindowBlur.ahk
+- Scripts-v1/StrFormatByteSize64.ahk <- AHK_Scripts/src/format_strings/StrFormatByteSize64.ahk
+- Scripts-v1/StrFormatByteSizeEx.ahk <- AHK_Scripts/src/format_strings/StrFormatByteSizeEx.ahk
+- Scripts-v2/CountLeadingChar.ahk <- ahk-scripts-v2/src/Strings/CountLeadingChar.ahk
+- Scripts-v2/CreateGradient.ahk <- ahk-scripts-v2/src/Gui/CreateGradient.ahk
+- Scripts-v2/DisableCloseButton.ahk <- ahk-scripts-v2/src/Gui/DisableCloseButton.ahk
+- Scripts-v2/DisableMove.ahk <- ahk-scripts-v2/src/Gui/DisableMove.ahk
+- Scripts-v2/GetCurrencyFormat.ahk <- ahk-scripts-v2/src/Strings/GetCurrencyFormat.ahk
+- Scripts-v2/GetNumberFormat.ahk <- ahk-scripts-v2/src/Strings/GetNumberFormat.ahk
+- Scripts-v2/TaskBarProgress.ahk <- ahk-scripts-v2/src/Gui/TaskBarProgress.ahk
+- Scripts-v2/WM_DEVICECHANGE.ahk <- ahk-scripts-v2/src/Message/WM_DEVICECHANGE.ahk
+- System/CreateDirectory.ahk <- AHK_DllCall_WinAPI/src/Directory Management Functions/CreateDirectory.ahk
+- System/GetPhysicallyInstalledSystemMemory.ahk <- AHK_DllCall_WinAPI/src/Memory Management Functions/GetPhysicallyInstalledSystemMemory.ahk
+- System/GetSystemTime.ahk <- AHK_DllCall_WinAPI/src/Time Functions/GetSystemTime.ahk
+- System/GetTickCount64.ahk <- AHK_DllCall_WinAPI/src/Time Functions/GetTickCount64.ahk
+- System/GlobalMemoryStatusEx.ahk <- AHK_DllCall_WinAPI/src/Memory Management Functions/GlobalMemoryStatusEx.ahk
+- System/RemoveDirectory.ahk <- AHK_DllCall_WinAPI/src/Directory Management Functions/RemoveDirectory.ahk
+- System/SetCurrentDirectory.ahk <- AHK_DllCall_WinAPI/src/Directory Management Functions/SetCurrentDirectory.ahk
+- System/SetSystemTime.ahk <- AHK_DllCall_WinAPI/src/Time Functions/SetSystemTime.ahk
+- System/classMemory.ahk <- classMemory/classMemory.ahk
+- Typing/ADO.ahk <- TypingAid/Source/Lib/ADO.ahk
+- Typing/Autocomplete.ahk <- Autocomplete/Autocomplete.ahk
+- Typing/Collection.ahk <- TypingAid/Source/Lib/Collection.ahk
+- Typing/DBA.ahk <- TypingAid/Source/Lib/DBA.ahk
+- Typing/DataBaseADO.ahk <- TypingAid/Source/Lib/DataBaseADO.ahk
+- Typing/DataBaseSQLLite.ahk <- TypingAid/Source/Lib/DataBaseSQLLite.ahk
+- Typing/DateHotkey.ahk <- DateHotkey/DateHotkey.ahk
+- Typing/RecordSetMySQL.ahk <- TypingAid/Source/Lib/RecordSetMySQL.ahk
+- Typing/SQLite_L.ahk <- TypingAid/Source/Lib/SQLite_L.ahk
+- Typing/TypingAid.ahk <- TypingAid/Source/TypingAid.ahk
+- Typing/keypress-beeperz-functions.ahk <- KeyPress-OSD/lib/keypress-beeperz-functions.ahk
+- Typing/keypress-keystrokes-helper.ahk <- KeyPress-OSD/lib/keypress-keystrokes-helper.ahk
+- Typing/keypress-mouse-functions.ahk <- KeyPress-OSD/lib/keypress-mouse-functions.ahk
+- Typing/keypress-mouse-ripples-functions.ahk <- KeyPress-OSD/lib/keypress-mouse-ripples-functions.ahk
+- Typing/keypress-numpadmouse.ahk <- KeyPress-OSD/lib/keypress-numpadmouse.ahk
+- Typing/keypress-osd.ahk <- KeyPress-OSD/keypress-osd.ahk
+- Typing/keypress-typing-aid.ahk <- KeyPress-OSD/lib/keypress-typing-aid.ahk
+- Typing/run_v1.ahk <- static-hands/windows/run_v1.ahk
+- Typing/run_v2.ahk <- static-hands/windows/run_v2.ahk
+- Utilities/ChangeAll2CLI.ahk <- LibCon.ahk/LibCon_Compiler/ChangeAll2CLI.ahk
+- Utilities/Example.ahk <- LibCon.ahk/Example.ahk
+- Utilities/Example2.ahk <- LibCon.ahk/Example2.ahk
+- Utilities/Example3.ahk <- LibCon.ahk/Example3.ahk
+- Utilities/GUI.ahk <- AutoHotKey-GUI-and-Commands/GUI/GUI.ahk
+- Utilities/Host.ahk <- AutoHotKey-GUI-and-Commands/Host.ahk
+- Utilities/LibCon.ahk <- LibCon.ahk/LibCon.ahk
+- Utilities/UserCommands.ahk <- AutoHotKey-GUI-and-Commands/GUI/UserCommands.ahk
+- Utilities/miscellaneous.ahk <- AutoHotKey-GUI-and-Commands/Miscellaneous/miscellaneous.ahk
+- Utilities/screenManagement.ahk <- AutoHotKey-GUI-and-Commands/shortcuts/screenManagement.ahk
+- Utilities/tf.ahk <- TF/tf.ahk
+- Utilities/xa.ahk <- XA/xa.ahk
+- WindowManagement/BottomFileExplorer.ahk <- productivity-ahk/BottomFileExplorer.ahk
+- WindowManagement/BottomFiles.ahk <- productivity-ahk/BottomFiles.ahk
+- WindowManagement/Launcher.ahk <- autohotkey-win-management/Launcher.ahk
+- WindowManagement/LeftBrowser.ahk <- productivity-ahk/LeftBrowser.ahk
+- WindowManagement/Main.ahk <- autohotkey-win-management/Main.ahk
+- WindowManagement/MouseGestures.ahk <- autohotkey-win-management/MouseGestures.ahk
+- WindowManagement/MoveWindowsWithModifier.ahk <- productivity-ahk/MoveWindowsWithModifier.ahk
