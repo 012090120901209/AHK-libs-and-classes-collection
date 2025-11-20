@@ -118,3 +118,145 @@ This collection contains 100 AutoHotkey examples scraped from 31 different repos
 - WindowManagement/Main.ahk <- autohotkey-win-management/Main.ahk
 - WindowManagement/MouseGestures.ahk <- autohotkey-win-management/MouseGestures.ahk
 - WindowManagement/MoveWindowsWithModifier.ahk <- productivity-ahk/MoveWindowsWithModifier.ahk
+
+
+## New Additions (Batch 2)
+
+Added 112 more examples from additional repositories.
+
+### AHK-v2-Core
+
+- SyncCallback.ahk <- ahk2_lib/SyncCallback.ahk
+- print.ahk <- ahk2_lib/print.ahk
+- YAML.ahk <- ahk2_lib/YAML.ahk
+- WebSocket.ahk <- ahk2_lib/WebSocket.ahk
+- WinHttpRequest.ahk <- ahk2_lib/WinHttpRequest.ahk
+- Monitor.ahk <- ahk2_lib/Monitor.ahk
+- WebSockets.ahk <- ahk2_lib/WebSockets.ahk
+- import_v1lib.ahk <- ahk2_lib/import_v1lib.ahk
+- TLSAuth.ahk <- ahk2_lib/TLSAuth.ahk
+- LoadScript.ahk <- ahk2_lib/LoadScript.ahk
+- ObjShare.ahk <- ahk2_lib/ObjShare.ahk
+- HttpServer.WebSocket.ahk <- ahk2_lib/HttpServer.WebSocket.ahk
+- ctypes.ahk <- ahk2_lib/ctypes.ahk
+- ComObjDll.ahk <- ahk2_lib/ComObjDll.ahk
+- WriteConsoleInput.ahk <- ahk2_lib/WriteConsoleInput.ahk
+- GetIPAddresses.ahk <- ahk2_lib/GetIPAddresses.ahk
+- Base64.ahk <- ahk2_lib/Base64.ahk
+- BSTR.ahk <- ahk2_lib/BSTR.ahk
+- RtlAdjustPrivilege.ahk <- ahk2_lib/RtlAdjustPrivilege.ahk
+- CGdip.ahk <- ahk2_lib/CGdip.ahk
+- SMTPClient.ahk <- ahk2_lib/SMTPClient.ahk
+- heap.ahk <- ahk2_lib/heap.ahk
+- JSON.ahk <- ahk2_lib/JSON.ahk
+- MouseHook.ahk <- ahk2_lib/MouseHook.ahk
+- Promise.ahk <- ahk2_lib/Promise.ahk
+
+### Clipboard
+
+- cl3.ahk <- CL3/cl3.ahk
+- ObjRegisterActive.ahk <- CL3/lib/ObjRegisterActive.ahk
+- WatchFolder.ahk <- CL3/lib/WatchFolder.ahk
+- HistoryRules.ahk <- CL3/lib/HistoryRules.ahk
+- Jxon.ahk <- CL3/lib/Jxon.ahk
+- JSON.ahk <- CL3/lib/JSON.ahk
+- settingsGui.ahk <- CL3/lib/settingsGui.ahk
+- XA.ahk <- CL3/lib/XA.ahk
+- class_lv_rows.ahk <- CL3/lib/class_lv_rows.ahk
+- cl3apiclass.ahk <- CL3/lib/cl3apiclass.ahk
+
+### DataFormats
+
+- _JXON.ahk <- JXON_ahk2/_JXON.ahk
+- csv.ahk <- CSV/csv.ahk
+- example.ahk <- CSV/example.ahk
+- ObjCSV-Demo-Advanced.ahk <- ObjCSV/ObjCSV-Demo-Advanced.ahk
+- ObjCSV-Demo-ReusedFields.ahk <- ObjCSV/ObjCSV-Demo-ReusedFields.ahk
+- ObjCSV-MultilineDemo-WithObjCSV2.ahk <- ObjCSV/ObjCSV-MultilineDemo-WithObjCSV2.ahk
+- ObjCSV-MultilineDemo-Without.ahk <- ObjCSV/ObjCSV-MultilineDemo-Without.ahk
+- ObjCSV-MultilineDemo-WithObjCSV1.ahk <- ObjCSV/ObjCSV-MultilineDemo-WithObjCSV1.ahk
+- ObjCSV-MultilineDemo-WithObjCSV3.ahk <- ObjCSV/ObjCSV-MultilineDemo-WithObjCSV3.ahk
+- ObjCSV-Demo-Basic.ahk <- ObjCSV/ObjCSV-Demo-Basic.ahk
+- ObjCSV.ahk <- ObjCSV/Lib/ObjCSV.ahk
+
+### Database
+
+- SQLite.ahk <- SQLite/SQLite.ahk
+- SQLite3.ahk <- SQLite/lib/interfaces/SQLite3.ahk
+- sqlite3.h.ahk <- SQLite/lib/headers/sqlite3.h.ahk
+- interface.sqlite.ahk <- SQLite/tests/interface.sqlite.ahk
+- all.sqlite.ahk <- SQLite/tests/all.sqlite.ahk
+- instance.sqlite.ahk <- SQLite/tests/instance.sqlite.ahk
+- Examples.ahk <- AHK-DB/Examples.ahk
+- AHK DB - SQLite.ahk <- AHK-DB/AHK DB - SQLite.ahk
+- AHK-DB_SQLite3.ahk <- AHK-DB/SQLite3.ahk
+
+### GUI-Frameworks
+
+- CSliderControl.ahk <- CGUI/CSliderControl.ahk
+- CFolderDialog.ahk <- CGUI/CFolderDialog.ahk
+- CEditControl.ahk <- CGUI/CEditControl.ahk
+- CActiveXControl.ahk <- CGUI/CActiveXControl.ahk
+- CMenu.ahk <- CGUI/CMenu.ahk
+- EventHandler.ahk <- CGUI/EventHandler.ahk
+- CFileDialog.ahk <- CGUI/CFileDialog.ahk
+- CControl.ahk <- CGUI/CControl.ahk
+- CPathPickerControl.ahk <- CGUI/CPathPickerControl.ahk
+- CEnumerator.ahk <- CGUI/CEnumerator.ahk
+- CPictureControl.ahk <- CGUI/CPictureControl.ahk
+- CHotkeyControl.ahk <- CGUI/CHotkeyControl.ahk
+- CButtonControl.ahk <- CGUI/CButtonControl.ahk
+- CCompoundControl.ahk <- CGUI/CCompoundControl.ahk
+- CCheckBoxControl.ahk <- CGUI/CCheckBoxControl.ahk
+
+### OCR
+
+- demo.ahk <- Vis2/demo.ahk
+- JSON.ahk <- Vis2/lib/JSON.ahk
+- ImagePut.ahk <- Vis2/lib/ImagePut.ahk
+- Vis2.ahk <- Vis2/lib/Vis2.ahk
+- Gdip_All.ahk <- Vis2/lib/Gdip_All.ahk
+- Math.ahk <- Vis.ahk/Source/Math.ahk
+- Graphics.ahk <- Vis.ahk/Source/Graphics.ahk
+- Replacements.ahk <- Vis.ahk/Source/Replacements.ahk
+- System.ahk <- Vis.ahk/Source/System.ahk
+- Exec.ahk <- Vis.ahk/Source/Exec.ahk
+- Vis.ahk <- Vis.ahk/Source/Vis.ahk
+- Vis.ahk_Gdip_All.ahk <- Vis.ahk/Source/Gdip_All.ahk
+
+### OfficeAutomation
+
+- Office_2010_Constants_(super_global).ahk <- MS-Office-COM-Basics/Examples/Office_2010_Constants_(super_global).ahk
+- Office_2010_Constants_(class).ahk <- MS-Office-COM-Basics/Examples/Office_2010_Constants_(class).ahk
+- Office_2010_Constants_(global).ahk <- MS-Office-COM-Basics/Examples/Office_2010_Constants_(global).ahk
+- Bookmarks.ahk <- MS-Office-COM-Basics/Examples/Word/Bookmarks.ahk
+- Document_collect_clipboard_data.ahk <- MS-Office-COM-Basics/Examples/Word/Document_collect_clipboard_data.ahk
+- Is_file_open.ahk <- MS-Office-COM-Basics/Examples/Word/Is_file_open.ahk
+- CommandBars.ahk <- MS-Office-COM-Basics/Examples/Word/CommandBars.ahk
+- Open_a_password_protected_document.ahk <- MS-Office-COM-Basics/Examples/Word/Open_a_password_protected_document.ahk
+- Find_and_replace_on_all_slides.ahk <- MS-Office-COM-Basics/Examples/PowerPoint/Find_and_replace_on_all_slides.ahk
+- Set_line_spacing.ahk <- MS-Office-COM-Basics/Examples/PowerPoint/Set_line_spacing.ahk
+- BulletFormat.ahk <- MS-Office-COM-Basics/Examples/PowerPoint/BulletFormat.ahk
+- Sent.ahk <- MS-Office-COM-Basics/Examples/Outlook/Sent.ahk
+- Subject.ahk <- MS-Office-COM-Basics/Examples/Outlook/Subject.ahk
+- Events.ahk <- MS-Office-COM-Basics/Examples/Outlook/Events.ahk
+- Sort items.ahk <- MS-Office-COM-Basics/Examples/Outlook/Sort items.ahk
+
+### UI-Automation
+
+- Example18_TextRangeTextChangedEvent.ahk <- UIA-v2/Examples/Example18_TextRangeTextChangedEvent.ahk
+- Example10_ExpandCollapsePattern.ahk <- UIA-v2/Examples/Example10_ExpandCollapsePattern.ahk
+- Example03_FindElements.ahk <- UIA-v2/Examples/Example03_FindElements.ahk
+- Example12_GridPatternGridItemPattern.ahk <- UIA-v2/Examples/Example12_GridPatternGridItemPattern.ahk
+- Example06_Calculator.ahk <- UIA-v2/Examples/Example06_Calculator.ahk
+- Example15_SelectionPatternSelectionItemPattern.ahk <- UIA-v2/Examples/Example15_SelectionPatternSelectionItemPattern.ahk
+- Example13_TablePatternTableItemPattern.ahk <- UIA-v2/Examples/Example13_TablePatternTableItemPattern.ahk
+- Example19_PropertyChangedEvent.ahk <- UIA-v2/Examples/Example19_PropertyChangedEvent.ahk
+- Example14_MultipleViewPattern.ahk <- UIA-v2/Examples/Example14_MultipleViewPattern.ahk
+- Example04_TreeWalking.ahk <- UIA-v2/Examples/Example04_TreeWalking.ahk
+- Example05_Notepad.ahk <- UIA-v2/Examples/Example05_Notepad.ahk
+- Spotify.ahk <- UIA-v2/Examples/Spotify.ahk
+- UIA_Browser_Example02_EdgeScrolling.ahk <- UIA-v2/Examples/UIA_Browser_Example02_EdgeScrolling.ahk
+- Example20_StructureChangedEvent.ahk <- UIA-v2/Examples/Example20_StructureChangedEvent.ahk
+- Example21_NotificationEvent.ahk <- UIA-v2/Examples/Example21_NotificationEvent.ahk
+
